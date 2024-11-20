@@ -18,9 +18,9 @@ Oslo kommune
 ```
 2.16.578.1.12.4.6.1             # Oslo kommune
 2.16.578.1.12.4.6.1.1           # IT-system
-2.16.578.1.12.4.6.1.1.1         # XDS registry oslo kommune
-2.16.578.1.12.4.6.1.1.1.1       # XDS registry oslo kommune PROD
-2.16.578.1.12.4.6.1.1.1.2       # XDS registry oslo kommune TEST
+2.16.578.1.12.4.6.1.1.1         # XDS registry Oslo kommune
+2.16.578.1.12.4.6.1.1.1.1       # XDS registry Oslo kommune PROD
+2.16.578.1.12.4.6.1.1.1.2       # XDS registry Oslo kommune TEST
 ```
 
 ## Registered OID's
@@ -33,9 +33,9 @@ Objects under this OID are systems operational within Oslo kommune. This is not 
 
 System for sharing patient data via national program [Pasientens journaldokumenter (PJD)](https://www.nhn.no/tjenester/pasientens-journaldokumenter). Data is synchronised from various source systems and shared via API access.
 
-##### 2.16.578.1.12.4.6.1.1.1.1 XDS registry oslo kommune PROD
+##### 2.16.578.1.12.4.6.1.1.1.1 XDS registry Oslo kommune PROD
 
-##### 2.16.578.1.12.4.6.1.1.1.2 XDS registry oslo kommune TEST
+##### 2.16.578.1.12.4.6.1.1.1.2 XDS registry Oslo kommune TEST
 
 #### 2.16.578.1.12.4.6.1.1.2 CGM Vision
 
