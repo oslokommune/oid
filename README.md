@@ -39,6 +39,8 @@ System for sharing patient data via national program [Pasientens journaldokument
 
 #### 2.16.578.1.12.4.6.1.1.2 CGM Vision
 
+Electronic Health Record (EHR) system used by Oslo kommunale legevakt
+
 #### 2.16.578.1.12.4.6.1.1.2.1 CGM Vision Production
 
 #### 2.16.578.1.12.4.6.1.1.2.2 CGM Vision Test
@@ -46,3 +48,5 @@ System for sharing patient data via national program [Pasientens journaldokument
 #### 2.16.578.1.12.4.6.1.1.2.3 CGM Vision UTV
 
 #### 2.16.578.1.12.4.6.1.1.2.4 CGM Vision Origo
+
+Test environment used by Oslo Origo
